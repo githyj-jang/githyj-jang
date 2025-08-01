@@ -33,7 +33,8 @@
 
 <p align="left">
   <a href="https://github.com/githyj-jang">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githyj-jang&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Langs" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githyj-jang&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=4&exclude_repo=Deep-Learning,dayme,OS-pintos,MyScheduling" alt="Top Langs" width="400px">
   </a>
 </p>
+
 
