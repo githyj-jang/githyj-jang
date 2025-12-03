@@ -22,19 +22,8 @@
 
 ---
 
-## ✨ 깃허브 활동
-
-![Yunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=githyj-jang&show_icons=true&theme=default)
-
----
-
 <!-- 방문자 수 -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=githyj-jang)
 
-<p align="left">
-  <a href="https://github.com/githyj-jang">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githyj-jang&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=4&exclude_repo=Deep-Learning,dayme,OS-pintos,MyScheduling" alt="Top Langs" width="400px">
-  </a>
-</p>
 
 
